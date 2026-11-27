@@ -1,0 +1,6 @@
+{
+  "name": "МАРКЕТ 24 — Глава I",
+  "description": "Атмосферный 2D top-down пиксельный хоррор в круглосуточном гипермаркете с динамическим освещением и поддержкой геймпада.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
